@@ -1,5 +1,5 @@
 {
-  "name": "tauri-axios",
+  "name": "tauri-axios-wrapper",
   "version": "1.7.9",
   "description": "Tauri axios wrapper",
   "main": "index.js",
